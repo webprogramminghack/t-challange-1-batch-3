@@ -1,4 +1,4 @@
-# Challange Week 1 - Batch 3
+# Challange 1 (Week 1) - Batch 3
 
 ---
 
