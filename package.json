@@ -1,0 +1,24 @@
+{
+  "name": "t-challange-batch-3-week-1",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webprogramminghack/t-challange-batch-3-week-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/webprogramminghack/t-challange-batch-3-week-1/issues"
+  },
+  "homepage": "https://github.com/webprogramminghack/t-challange-batch-3-week-1#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
