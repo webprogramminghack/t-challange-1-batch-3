@@ -55,7 +55,7 @@ npm install
 Run the tests using the following command:
 
 ```
-npm test
+npm run test
 ```
 
 ---
