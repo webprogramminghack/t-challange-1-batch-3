@@ -17,8 +17,8 @@ const checkEvenOdd = () => {
 
   // Do not delete the code below.
   // Displaying final results
-  console.log(`Angka genap: ${evenNumbers.join(', ')}`);
-  console.log(`Angka ganjil: ${oddNumbers.join(', ')}`);
+  console.log(`Even numbers: ${evenNumbers.join(', ')}`);
+  console.log(`Odd numbers: ${oddNumbers.join(', ')}`);
 
   return {
     even: evenNumbers,

@@ -1,8 +1,10 @@
-# Challange 1 (Week 1) - Batch 3
+# Challange 1 (Phase 1) - Batch 3
 
 ---
 
-# Project: Simple Budget Tracker
+# Challange 1
+
+## Project: Simple Budget Tracker
 
 This project will help participants understand all the concepts mentioned by building a simple application to track income and expenses.
 
@@ -37,6 +39,40 @@ This project will help participants understand all the concepts mentioned by bui
 
 - Check if the user inputs valid data before calculating the balance.
 - Use logical operators for validation.
+
+---
+
+# Challange 1
+
+## Identifying Odd and Even Numbers in an Array
+
+## Description
+
+Create a program that prompts the user to input several numbers at once, and then the program will determine which numbers are odd and which are even.
+
+## Requirements
+
+1. The program should ask the user to enter numbers in a single input, separated by commas (,).
+2. The program should convert the input into an array of numbers.
+3. The program should use a function to check whether a number is odd or even.
+4. The program should display the list of odd and even numbers using a loop.
+
+## Example
+
+### Input
+
+Enter numbers (separate with commas):
+
+```
+1, 2, 3, 4, 5, 6
+```
+
+### Output
+
+```
+Even numbers: 2, 4, 6
+Odd numbers: 1, 3, 5
+```
 
 ---
 
