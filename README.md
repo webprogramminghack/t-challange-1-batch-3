@@ -60,6 +60,32 @@ npm run test
 
 ---
 
+# Evaluation System
+
+The evaluation for this challenge is based on the following four criteria:
+
+### 1. Logic
+
+### 2.Framework of Thinking
+
+### 3.Problem Solving
+
+### 4. Analytic
+
+For more information, [check this link](https://chatgpt.com/share/67bea6b3-c9cc-800c-8996-4ae7a0f047be)
+
+---
+
+# Challenges
+
+There are two challenges in this competition:
+
+### Challenge 1: Maximum score of 40 points
+
+### Challenge 2: Maximum score of 60 points
+
+---
+
 # How to Upload your Challange
 
 Check this module: [click this](https://orchid-clematis-3e4.notion.site/Panduan-Penggunaan-Git-Untuk-Upload-Assignment-e2d80a19b3684f5d8f1a4209dcf85445?pvs=73)
