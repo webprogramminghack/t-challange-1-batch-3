@@ -1,5 +1,6 @@
 'use strict';
 
+// Do not delete the code below.
 function calculateFinance(inputIncome, inputExpense) {
   // Please complete the task below.
   // For income and expenses, use the parameters inputIncome and inputExpenses.

@@ -1,5 +1,5 @@
 // main.test.js
-const { calculateFinance } = require('./main.js');
+const { calculateFinance } = require('../challenge1.js');
 
 global.console = {
   log: jest.fn(),
